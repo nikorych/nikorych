@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/vaseanicorici)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vaseanicorici?border=0&radius=20)
 
 <!--
 **nikorych/nikorych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
